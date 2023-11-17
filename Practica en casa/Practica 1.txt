@@ -2,3 +2,6 @@ Nombre: Yeison Leandro
 Apellido: Arroyave Osorio
 
 Edad:29
+Correo:fullm94@gmail.com
+Ciudad: Pereira
+Municipio: Risaralda
